@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/safelocker/static/css/main.2bea4ea1.chunk.css",
+    "main.css": "/safelocker/static/css/main.20efc0ba.chunk.css",
     "main.js": "/safelocker/static/js/main.baacde86.chunk.js",
     "main.js.map": "/safelocker/static/js/main.baacde86.chunk.js.map",
     "runtime-main.js": "/safelocker/static/js/runtime-main.39d833f4.js",
@@ -8,16 +8,16 @@
     "static/js/2.d6b05ed8.chunk.js": "/safelocker/static/js/2.d6b05ed8.chunk.js",
     "static/js/2.d6b05ed8.chunk.js.map": "/safelocker/static/js/2.d6b05ed8.chunk.js.map",
     "index.html": "/safelocker/index.html",
-    "precache-manifest.aa51c30d911aefb132ca172bba4db4fb.js": "/safelocker/precache-manifest.aa51c30d911aefb132ca172bba4db4fb.js",
+    "precache-manifest.a397c454f93f43e398805f475d48a857.js": "/safelocker/precache-manifest.a397c454f93f43e398805f475d48a857.js",
     "service-worker.js": "/safelocker/service-worker.js",
-    "static/css/main.2bea4ea1.chunk.css.map": "/safelocker/static/css/main.2bea4ea1.chunk.css.map",
+    "static/css/main.20efc0ba.chunk.css.map": "/safelocker/static/css/main.20efc0ba.chunk.css.map",
     "static/js/2.d6b05ed8.chunk.js.LICENSE.txt": "/safelocker/static/js/2.d6b05ed8.chunk.js.LICENSE.txt",
     "static/media/Navbar.css": "/safelocker/static/media/bg.b2bc2c9b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.39d833f4.js",
     "static/js/2.d6b05ed8.chunk.js",
-    "static/css/main.2bea4ea1.chunk.css",
+    "static/css/main.20efc0ba.chunk.css",
     "static/js/main.baacde86.chunk.js"
   ]
 }
